@@ -1,5 +1,6 @@
 ### USB UVC Device
-derive from https://github.com/ultraembedded/core_usb_cdc
+derive from https://github.com/ultraembedded/core_usb_cdc  
+            https://github.com/gowinsemi/USB-Video-Class
 
 ##### Features
 * High speed USB UVC device.
